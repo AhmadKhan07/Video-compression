@@ -1,5 +1,4 @@
-# Video-compression
-
+# Video-compression algorithm for CCTV videographs
 The Main.ipynb file contains the compression code along with its PSNR and SSIM calculation. The code is also commented for the best understanding.
 The Evaluation.ipynb file contains source code for encoding the data set videos using XVID and H.264 codecs and then its PSNR and SSIM value calculation.
 Data Set: This folder contains the video used for testing algorithm
